@@ -293,7 +293,7 @@
 		{
 			"name": "Elaye, the Lofty",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human",
 			"collector_number": "90",
 			"image_uris": {
@@ -317,7 +317,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Shadriarch2.github.io/sets/ELV-files/img/4_Treasure.jpg"
+				"en": "https://Shadriarch2.github.io/sets/ELV-files/img/4t_Treasure.jpg"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Shadriarch2.github.io/sets/ELV-files/img/3_Spirit.jpg"
+				"en": "https://Shadriarch2.github.io/sets/ELV-files/img/3t_Spirit.jpg"
 			}
 		},
 		{
@@ -433,7 +433,7 @@
 		{
 			"name": "Lure of the Light",
 			"rarity": "mythic",
-			"mana_cost": "{1}{G}{W}",
+			"mana_cost": "{3}{G}{W}",
 			"type": "Enchantment",
 			"collector_number": "213",
 			"image_uris": {
@@ -493,7 +493,7 @@
 		{
 			"name": "The Death of the Poet",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{B}",
+			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Enchantment — Elegy",
 			"collector_number": "194",
 			"image_uris": {
@@ -773,7 +773,7 @@
 		{
 			"name": "Twilight Oracle",
 			"rarity": "uncommon",
-			"mana_cost": "{U}{R}",
+			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "230",
 			"image_uris": {
@@ -1134,7 +1134,7 @@
 			"name": "Wander the Wilderness",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "",
+			"type": "Sorcery",
 			"collector_number": "186",
 			"image_uris": {
 				"en": "https://Shadriarch2.github.io/sets/ELV-files/img/186_Wander the Wilderness.jpg"
@@ -1883,7 +1883,7 @@
 		{
 			"name": "Seer of Five Horizons",
 			"rarity": "rare",
-			"mana_cost": "{4}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "65",
 			"image_uris": {
@@ -1953,7 +1953,7 @@
 		{
 			"name": "Crop Tender",
 			"rarity": "uncommon",
-			"mana_cost": "{B}",
+			"mana_cost": "{B}{B}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "83",
 			"image_uris": {
@@ -1963,7 +1963,7 @@
 		{
 			"name": "Aftermath Preacher",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Cleric",
 			"collector_number": "77",
 			"image_uris": {
@@ -2013,7 +2013,7 @@
 		{
 			"name": "Cost of Guidance",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{B}",
 			"type": "Enchantment",
 			"collector_number": "82",
 			"image_uris": {
@@ -2323,7 +2323,7 @@
 		{
 			"name": "Beset",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "117",
 			"image_uris": {
@@ -2333,7 +2333,7 @@
 		{
 			"name": "Fiery Remains",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "128",
 			"image_uris": {
@@ -2633,7 +2633,7 @@
 		{
 			"name": "Return by Moonlight",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "24",
 			"image_uris": {
@@ -2757,7 +2757,7 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Shadriarch2.github.io/sets/ELV-files/img/1_Copy.jpg"
+				"en": "https://Shadriarch2.github.io/sets/ELV-files/img/1t_Copy.jpg"
 			}
 		},
 		{
@@ -2767,7 +2767,7 @@
 			"type": "Token Legendary Creature — Spirit",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Shadriarch2.github.io/sets/ELV-files/img/2_Flunnore.jpg"
+				"en": "https://Shadriarch2.github.io/sets/ELV-files/img/2t_Flunnore.jpg"
 			}
 		}
 	]
@@ -2950,7 +2950,95 @@
 	4 Betweening Boon
 	4 Return by Moonlight
 	4 Lonesome One
-[common(7)]
+[common(6)]
+	8 Crypt Tree
+	8 Unflinching Fatalist
+	8 Doomside Flock
+	8 Child of Death's Whisper
+	8 Matriarch Vagabond
+	8 Reclaim Soul
+	8 Strange Mercy
+	8 Grieving Stones
+	8 Drowner Emissary
+	8 Ashfield Guide
+	8 Haven Keeper
+	8 Instiller of Spirits
+	8 Face Fear
+	8 Bauble Keeper
+	8 Slip Into Abstraction
+	8 Wisdom's Embrace
+	8 Thorn Speaker
+	8 Figment of Loss
+	8 Blade Burier
+	8 Recoverer Witch
+	8 Fenland Consumer
+	8 Spirit's Remission
+	8 Tainted Visions
+	8 Blighted Insight
+	8 Gateway Gisant
+	8 Solitary Effigy
+	8 Inhabited Armor
+	8 Altar of Old Rites
+	8 Lectern of Reclaiming
+	8 Siphoning Lantern
+	8 Blightroot's Honored
+	8 Tillerfolk
+	8 Knower of Ways
+	8 Quiescent Knight
+	8 Keeper of Tradition
+	8 Strength's Sustainer
+	8 Bark Lurker
+	8 Masked Vestige
+	8 Loam Stalkers
+	8 Old-Growth Spirit
+	8 Replete
+	8 Propagating Altar
+	8 Bygone Might
+	8 Wander the Wilderness
+	8 Beseech the Spirits
+	8 Tidecloak Bound
+	8 Shroudmire Bound
+	8 Graspmurk Bound
+	8 Mosslight Bound
+	8 Carvepyre Bound
+	8 Bold Venturer
+	8 Desperate Deserter
+	8 Honored Kindler
+	8 Heirloom Thief
+	8 Recalcitrant Spirit
+	8 Forsaken Archer
+	8 Crag-Claimer Wurm
+	8 Brutal Apparition
+	8 Bygone Behemoth
+	8 Exorcise Flesh
+	8 Unexpected Discovery
+	8 Mourned Glory
+	8 Spirit Shepherding
+	8 Minor Starfall
+	8 Callous Incineration
+	8 Maddening Moonfly
+	8 Drowner Depth-Seer
+	8 Icedeep Host
+	8 Smokemind
+	8 Churning Tendrils
+	8 Strix of the Henge
+	8 Apparate
+	8 Unnaming Possession
+	8 Contemplate Calamity
+	8 Deny Knowledge
+	8 Hide Your Face
+	8 Snowfield Traveler
+	8 Overtaken Exorcist
+	8 Cautious Farmhand
+	8 Safekeeper Guard
+	8 Forlorn Vestige
+	8 Ritegiver
+	8 Uplifting Leader
+	8 Heretical Coven
+	8 Deliverance
+	8 Watchful Lingering
+	8 Twilit Encounter
+[common | masterpiece(1)]
 	8 Crypt Tree
 	8 Unflinching Fatalist
 	8 Doomside Flock

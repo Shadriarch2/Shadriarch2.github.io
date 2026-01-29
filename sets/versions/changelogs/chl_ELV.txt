@@ -1,4 +1,243 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Stagnant Vestige
+rules_text: Flash
+When this creature enters, exile up to one target spell or nonland permanent. If you do, tap this creature. For as long as that card remains exiled, its controller may cast it by paying {2} rather than paying its mana cost. => Flash
+When this creature enters, exile up to one target spell or nonland permanent. If you do, tap this creature. For as long as that card remains exiled, its controller may cast it by paying {1} rather than paying its mana cost.
+pt: 3/2 => 3/1
+
+Root of Souls
+rules_text: Whenever a creature dies, return it from its owner's graveyard to the battlefield under that player's control at the beginning of their next end step.
+{T}, Exile target creature card from a graveyard: Add {C}{C}{C} and create a 1/1 colorless Spirit creature token. => Whenever a creature dies, return it from its owner's graveyard to the battlefield under that player's control at the beginning of their next end step.
+{T}, Exile a creature card from a graveyard: Add {C}{C}{C} and create a 1/1 colorless Spirit creature token.
+
+Lien, Heir of Amel
+rules_text: Lien can't attack alone.
+After blockers are declared, choose a blocked creature you control at random. That creature gains first strike, deathtouch, and “Whenever this creature deals combat damage, you draw a card and lose 1 life” until end of turn. => Lien can't attack alone.
+After blockers are declared, if Lien is attacking, choose a blocked creature you control at random. That creature gains first strike, deathtouch, and “Whenever this creature deals combat damage, you draw a card and lose 1 life” until end of turn.
+
+Unflinching Fatalist
+rules_text: When this card leaves your graveyard during your turn, you may pay {1}{B}. If you do, draw a card and lose 1 life.
+Cull [i](You may cast a copy of this card from your graveyard by exiling it. Each token you sacrifice pays for {1} to cast it this way. The copy becomes a token.)[/i] => When this card leaves your graveyard during your turn, you may pay {2}{B}. If you do, draw a card and lose 1 life.
+Cull [i](You may cast a copy of this card from your graveyard by exiling it. Each token you sacrifice pays for {1} to cast it this way. The copy becomes a token.)[/i]
+pt: 2/2 => 1/1
+
+Elegy Priestess
+rules_text: At the beginning of each upkeep, if you control no Spirit tokens, create a 1/1 colorless Spirit creature token.
+When this creature dies, create a 1/1 colorless Spirit creature token. => At the beginning of each upkeep, if you control no Spirit tokens, create a 1/1 colorless Spirit creature token.
+
+Elaye, the Lofty
+cost: {1}{B}{B} => {1}{B}
+
+Pneuma, Fatal Superposition
+rules_text: As an additional cost to cast this spell, exile two creature cards put into your graveyard this turn.
+Whenever Pneuma enters or attacks, you may have it become a copy of a card exiled with it, except its name is Pneuma, Fatal Superposition, it's legendary in addition to its other types, and it has this ability. => As an additional cost to cast this spell, exile two creature cards put into your graveyard this turn.
+As Pneuma enters or attacks, you may have it become a copy of a card exiled with it, except its name is Pneuma, Fatal Superposition, it's legendary in addition to its other types, and it has this ability.
+
+Turan, Renowned Exorcist
+rules_text: Whenever one or more cards are put into exile from anywhere, put that many +1/+1 counters on Turan. This ability triggers only once each turn.
+{G}{W}: Exile target card from a graveyard. Activate only as a sorcery. => Whenever one or more cards are put into exile from anywhere, put a +1/+1 counter on Turan. This ability triggers only once each turn.
+{G}{W}: Exile target card from a graveyard. Activate only as a sorcery.
+
+Lure of the Light
+cost: {1}{G}{W} => {3}{G}{W}
+rules_text: At the beginning of combat, put a +1/+1 counter on each of up to two target creatures. You choose which of those creatures attack and how those creatures block this combat. => At the beginning of combat on each turn, put a +1/+1 counter on each of up to two target creatures. You choose which of those creatures attack and how those creatures block this combat.
+
+Eksta, Slayer of Finality
+
+Tiren Katabas
+rules_text: [+2]: Untap up to one target creature and/or land you control. Until your next turn, a creature chosen this way becomes a Forest and a land chosen this way becomes a 3/3 Elemental creature with vigilance, haste, and hexproof that's still a land.
+[-X]: Exile the top X cards of your library. You may play cards exiled this way until the end of your next turn.
+[-7]: You get an emblem with “Lands you control have indestructible and ‘{T}: Create three Treasure tokens.'” => [+2]: Untap up to one target creature and/or land you control. Until your next turn, a creature chosen this way becomes a Forest land and a land chosen this way becomes a 3/3 Elemental creature with vigilance, haste, and hexproof that's still a land.
+[-X]: Exile the top X cards of your library. You may play cards exiled this way until the end of your next turn.
+[-7]: You get an emblem with “Lands you control have indestructible and ‘{T}: Create three Treasure tokens.'”
+special_text: [+2]: Untap up to one target creature and/or land you control. Until your next turn, a creature chosen this way becomes a Forest and a land chosen this way becomes a 3/3 Elemental creature with vigilance, haste, and hexproof that's still a land.
+[-X]: Exile the top X cards of your library. You may play cards exiled this way until the end of your next turn.
+[-7]: You get an emblem with “Lands you control have indestructible and ‘{T}: Create three Treasure tokens.'” => [+2]: Untap up to one target creature and/or land you control. Until your next turn, a creature chosen this way becomes a Forest land and a land chosen this way becomes a 3/3 Elemental creature with vigilance, haste, and hexproof that's still a land.
+[-X]: Exile the top X cards of your library. You may play cards exiled this way until the end of your next turn.
+[-7]: You get an emblem with “Lands you control have indestructible and ‘{T}: Create three Treasure tokens.'”
+
+The Death of the Poet
+cost: {1}{U}{B} => {2}{U}{B}
+rules_text: [i](As this Elegy enters and whenever a creature you control leaves the battlefield during your turn, add a lore counter. Sacrifice this Elegy after IV.)[/i]
+I, II — Draw two cards, then discard two cards.
+III — Exile up to two cards from your graveyard.
+IV — You may cast an instant, sorcery, or Elegy card exiled with this Elegy without paying its mana cost. => [i](As this Elegy enters and whenever a creature you control leaves the battlefield during your turn, add a lore counter. Sacrifice this Elegy after IV.)[/i]
+I, II — Draw two cards, then discard two cards.
+III — Exile a card from your graveyard.
+IV — You may cast an instant, sorcery, or Elegy card exiled with this Elegy without paying its mana cost.
+special_text: [i](As this Elegy enters and whenever a creature you control leaves the battlefield during your turn, add a lore counter. Sacrifice this Elegy after IV.)[/i]
+I, II — Draw two cards, then discard two cards.
+III — Exile up to two cards from your graveyard.
+IV — You may cast an instant, sorcery, or Elegy card exiled with this Elegy without paying its mana cost. => [i](As this Elegy enters and whenever a creature you control leaves the battlefield during your turn, add a lore counter. Sacrifice this Elegy after IV.)[/i]
+I, II — Draw two cards, then discard two cards.
+III — Exile a card from your graveyard.
+IV — You may cast an instant, sorcery, or Elegy card exiled with this Elegy without paying its mana cost.
+
+Wisdom's Embrace
+rules_text: Draw a card, then resound. If you triggered no resound abilities this way, draw a card. [i](Trigger any number of resound abilities among creatures you control. Do this only once each turn.)[/i] => Draw a card, then resound. If you triggered a resound ability this way, draw a card. [i](Trigger any number of resound abilities among creatures you control. Do this only once each turn.)[/i]
+
+Twilight Oracle
+cost: {U}{R} => {1}{U}{R}
+rules_text: As an additional cost to cast this spell, discard two cards or pay {2}.
+When this creature enters, draw cards equal to the number of cards you've discarded this turn. => As an additional cost to cast this spell, discard a card.
+When this creature enters, draw cards equal to the number of cards you've discarded this turn.
+
+Fenland Consumer
+
+Strength's Sustainer
+rules_text: [i]Paragon — [/i]At the beginning of combat on your turn, target creature you control gets +1/+1. Then if you control a creature with power different than each other creature's power, that creature gains trample until end of turn. => [i]Paragon — [/i]At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn. Then if you control a creature with power different than each other creature's power, that creature gains trample until end of turn.
+
+Wander the Wilderness
+type:  => Sorcery
+
+Spirit Shepherding
+rules_text: Create two 1/1 colorless Spirit creature tokens. Then creatures you control get +1/+0 and gain haste until end of turn. => Create a 1/1 colorless Spirit creature token. Then creatures you control get +1/+0 and gain haste until end of turn.
+
+Icedeep Host
+rules_text: Whenever you discard a card, draw a card. This ability triggers only once each turn.
+{T}, Discard a card: Target player mills three cards. => Whenever you discard a card, target player mills two cards.
+{T}, Discard a card: Draw a card.
+
+Unnaming Possession
+rules_text: Enchant creature
+Enchanted creature loses all abilities and is a Spirit creature with base power and toughness 1/1 named Spirit.
+When this Aura enters, surveil 1, then draw a card. => Enchant creature
+Enchanted creature loses all abilities and is a Spirit creature with base power and toughness 1/1 named Spirit.
+When this Aura enters, surveil 1.
+
+Safekeeper Guard
+rules_text: When this creature enters, create two 1/1 colorless Spirit creature tokens.
+Sacrifice this creature: Target creature you control gains indestructible until end of turn. => When this creature enters, create a 1/1 colorless Spirit creature token.
+{W}, {T}, Sacrifice this creature: Target creature you control gains indestructible until end of turn.
+pt: 1/2 => 1/1
+
+Elne, Starfall Prohpet
+rules_text: Haste
+{1}{R}: If Elne is a Peasant, it becomes a 2/2 Human Cleric and gains flying.
+{2}{R}{R}: If Elne is a Cleric, it becomes a 4/4 Human Warlock and gains “When this creature dies, destroy up to two target nonbasic lands.” => Haste
+{1}{R}: If Elne is a Peasant, it becomes a 2/2 Human Cleric and gains flying.
+{2}{R}{R}: If Elne is a Cleric, it becomes a 4/4 Human Warlock and gains “When this creature dies, destroy up to one target nonbasic land.”
+
+Lis, Heretic of Bounds
+
+Bare the Soul
+rules_text: You may cast this spell as though it had flash if you pay {U} more to cast it.
+Reveal X cards from the top of your library. Choose up to three of those cards, put them into your hand, then shuffle. => You may cast this spell as though it had flash if you pay {U} more to cast it.
+Look at the X cards from the top of your library. Choose up to three of those cards, put them into your hand, then shuffle.
+
+Emptied Court
+rules_text: At the beginning of your upkeep, mill three cards. Put a card from among them into your hand and lose 2 life.
+{T}, Pay 1 life, Exile a card from your graveyard: Add {B}. => At the beginning of your upkeep, mill three cards. Put a card from among them into your hand and lose 3 life.
+
+Crypt Forest Hungerer
+
+Rise from Silt
+rules_text: If a creature died under your control this turn, you may cast this spell as though it had flash.
+Return up to three target creature cards with total mana value 6 or less from your graveyard to the battlefield. => Return up to three target creature cards with total mana value 6 or less from your graveyard to the battlefield.
+
+Citadel Claimant
+
+Boon Trader's Gift
+
+Chaos Impending
+
+Seer of Five Horizons
+cost: {4}{U} => {3}{U}
+pt: 1/4 => 3/4
+
+Take from Within
+rules_text: When this enchantment enters, draw a card and gain 3 life.
+Whenever a triggered ability of a creature you control triggers, you may have that ability trigger an additional time. Do this only once each turn. => Whenever a triggered ability of a creature you control triggers, you may have that ability trigger an additional time. Do this only once each turn.
+
+Crop Tender
+cost: {B} => {B}{B}
+
+Aftermath Preacher
+cost: {1}{B} => {2}{B}
+
+Cost of Guidance
+cost: {1}{B} => {B}
+
+Cruel Reanimation
+rules_text: As an additional cost to cast this spell, sacrifice a nontoken creature or two creature tokens.
+Return target creature card from your graveyard to the battlefield with an additional +1/+1 counter on it for each creature that died this turn. => As an additional cost to cast this spell, sacrifice two creature tokens.
+Return target creature card from your graveyard to the battlefield.
+
+Nascent Apparition
+rules_text: {T}: Add {G}.
+{G}, {T}: Exile target nonland card from a graveyard, then put a +1/+1 counter on target creature. Activate only as a sorcery. => {T}: Add {G}.
+{1}{G}, {T}: Exile target nonland card from a graveyard, then put a +1/+1 counter on up to one other target creature. Activate only as a sorcery.
+pt: 0/2 => 0/1
+
+Companion of the Lost
+rules_text: Vigilance
+[i]Paragon[/i] — Whenever this creature or another creature you control enters, if you control a creature with power different than each other creature's power, untap target permanent and draw a card. => Vigilance
+[i]Paragon[/i] — Whenever this creature enters, if it has power different than each other creature's power, draw a card.
+
+Safety of the Morass
+rules_text: Choose one —
+• Target permanent gains hexproof, indestructible, and “This permanent can't be sacrificed” until end of turn.
+• Exile target card from a graveyard. Put that card into its owner's graveyard at the beginning of your next end step. => Choose one —
+• Target permanent gains hexproof and indestructible until end of turn.
+• Exile target card from a graveyard. You may put that card into its owner's graveyard at the beginning of your next end step.
+
+Beset
+cost: {R} => {1}{R}
+
+Fiery Remains
+cost: {1}{R} => {2}{R}
+rules_text: Fiery Remains deals 2 damage to any target.
+Cull [i](You may cast a copy of this card from your graveyard by exiling it. Each token you sacrifice pays for {1} to cast it this way.)[/i] => Fiery Remains deals 2 damage to target creature or planeswalker. If if this spell was cast from a graveyard, it deals damage equal to the number of creatures you've sacrificed this turn to that target instead.
+Cull [i](You may cast a copy of this card from your graveyard by exiling it. Each token you sacrifice pays for {1} to cast it this way.)[/i]
+
+Uncaring Flame
+rules_text: Uncaring Flame deals X damage to target creature or planeswalker. When that permanent dies, deal 2 damage to up to one target player. => Uncaring Flame deals X damage to target creature or planeswalker. When that permanent dies this turn, Uncaring Flame deals 2 damage to up to one target player.
+
+Thoughtbriar
+rules_text: [i]Insanity — [/i]Counter target spell unless its controller pays {1}. If two or more cards were put into your graveyard from anywhere this turn, counter that spell unless its controller pays {3} instead. => [i]Insanity — [/i]Counter target spell unless its controller pays {2}. If two or more cards were put into your graveyard from anywhere this turn, counter that spell instead.
+
+Last Flagbearers
+rules_text: Flash
+When this creature enters, return target spell to its owner's hand.
+While an opponent is choosing targets as part of casting a spell or permanent they control or activating an ability they control, that player must choose at least one Flagbearer on the battlefield if able. => Flash
+When this creature enters, if it was cast, return target spell to its owner's hand.
+While an opponent is choosing targets as part of casting a spell or permanent they control or activating an ability they control, that player must choose at least one Flagbearer on the battlefield if able.
+
+Fyul, Spiritclaimer
+pt: 4/4 => 2/3
+
+A Violet by a Mossy Stone
+rules_text: [i](As this Elegy enters and whenever a creature you control leaves the battlefield during your turn, add a lore counter. Sacrifice this Elegy after III.)[/i]
+I — Search your library for a basic Plains card, reveal it, then shuffle and put that card on top.
+II — You gain 2 life.
+III — Create a 1/1 colorless Spirit creature token. => [i](As this Elegy enters and whenever a creature you control leaves the battlefield during your turn, add a lore counter. Sacrifice this Elegy after III.)[/i]
+I — You may search your library for a basic Plains card, reveal it, then shuffle and put that card on top.
+II — You gain 2 life.
+III — Create a 1/1 colorless Spirit creature token.
+special_text: [i](As this Elegy enters and whenever a creature you control leaves the battlefield during your turn, add a lore counter. Sacrifice this Elegy after III.)[/i]
+I — Search your library for a basic Plains card, reveal it, then shuffle and put that card on top.
+II — You gain 2 life.
+III — Create a 1/1 colorless Spirit creature token. => [i](As this Elegy enters and whenever a creature you control leaves the battlefield during your turn, add a lore counter. Sacrifice this Elegy after III.)[/i]
+I — You may search your library for a basic Plains card, reveal it, then shuffle and put that card on top.
+II — You gain 2 life.
+III — Create a 1/1 colorless Spirit creature token.
+
+Return by Moonlight
+cost: {2}{W} => {2}{W}{W}
+
+Pashq, Overtaken Citadel
+rules_text: This land enters tapped.
+{T}: Add {R} or {G}.
+{1}: The next creature spell you cast has burgeon 1 [i](This creature enters with an additional +1/+1 counter if mana from a nonland source was spent to cast it.)[/i] => This land enters tapped.
+{T}: Add {R} or {G}.
+{T}: The next creature spell you cast this turn has burgeon 1. [i](This creature enters with an additional +1/+1 counter if mana from a nonland source was spent to cast it.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
