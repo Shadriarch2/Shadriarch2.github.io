@@ -280,7 +280,7 @@
             "number": 216,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "[i]Insanity [/i]\u2014 When Miroa enters and at the beginning of each upkeep, if two or more cards were put into your graveyard from anywhere this turn, it becomes a copy of any creature on the battlefield except it has this ability. Otherwise, mill two cards.",
+            "rules_text": "[i]Insanity [/i]\u2014 When Miroa enters and at the beginning of each end step, it becomes a copy of any creature on the battlefield except it has this ability if two or more cards were put into your graveyard from anywhere this turn. Otherwise, mill two cards.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -3807,7 +3807,7 @@
             "notes": ""
         },
         {
-            "card_name": "Excoriate",
+            "card_name": "Excoriate the Shell",
             "color": "B",
             "rarity": "uncommon",
             "type": "Instant",
