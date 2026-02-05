@@ -1,3 +1,9 @@
 ﻿{
-    "sets": []
+    "sets": [
+        {
+            "set_code": "ELV",
+            "set_name": "Elegies of Vaquer (2)",
+            "formats": ""
+        }
+    ]
 }
