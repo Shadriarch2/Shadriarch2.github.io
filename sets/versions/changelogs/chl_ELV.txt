@@ -1,4 +1,73 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Lone Spiritcaller added.
+Elne, Starfall Prophet added.
+The Harvest's Invitation added.
+
+Grenni, Soulcrafter removed.
+Wrest From Repose removed.
+Elne, Starfall Prohpet removed.
+Harvest Invitation removed.
+
+Vaporous Monument
+
+Child of Death's Whisper
+
+Exorcist's Recall
+cost: {U}{B} => {4}{U}{U}{B}
+rules_text: Destroy target creature with mana value 3 or less.
+Surveil 3. => Target opponent mills half their library, rounded up. You may cast up to one card from among cards milled this way without paying its mana cost.
+
+Vestige of Reprieve
+
+Guardian Soother
+rules_text: When this creature enters, resound. [i](Trigger any number of resound abilities among creatures you control. Do this only once each turn.)[/i]
+Resound — You draw a card and gain 3 life.
+{5}{W}{U}: Resound. => When this creature enters, resound. [i](Trigger any number of resound abilities among creatures you control. Do this only once each turn.)[/i]
+Resound — You draw a card and gain 1 life.
+{5}{W}{U}: Resound.
+
+Rise from Silt
+
+Drowner Lord
+rules_text: Vigilance
+Tokens you control have vigilance.
+Whenever token you control enters during your turn, draw a card. This ability triggers only once each turn. => Ward {1}
+Whenever token you control enters during your turn, draw a card. This ability triggers only once each turn.
+pt: 1/3 => 2/2
+
+Starfall Tree
+rules_text: At the beginning of each end step, copy a card exiled with this artifact. You may cast the copy. [i](You still pay its costs. A copy of a permanent spell becomes a token.)[/i]
+{2}{U}, {T}: Exile target artifact, instant, or sorcery card from a graveyard. => At the beginning of your end step, copy a card exiled with this artifact. You may cast the copy. [i](You still pay its costs. A copy of a permanent spell becomes a token.)[/i]
+{2}{U}, {T}: Exile target artifact, instant, or sorcery card from your graveyard. Activate only as a sorcery.
+
+Nascent Apparition
+rules_text: {T}: Add {G}.
+{1}{G}, {T}: Exile target nonland card from a graveyard, then put a +1/+1 counter on up to one other target creature. Activate only as a sorcery. => {T}: Add {G}.
+{2}{G}, {T}: Exile target nonland card from a graveyard, then put a +1/+1 counter on up to one other target creature. Activate only as a sorcery.
+
+Companion of the Lost
+type: Creature — Human Knight => Creature — Human Scout
+rules_text: Vigilance
+[i]Paragon[/i] — Whenever this creature enters, if it has power different than each other creature's power, draw a card. => Vigilance
+[i]Paragon[/i] — When this creature enters, if it has power different than each other creature's power, draw a card.
+
+Tillerfolk Ambush
+rules_text: [i]Paragon[/i] — Choose target creature you control and target creature you don't control. Double the creature you control's power until end of turn if you control a creature with power different than each other creature's power. Then the chosen creatures fight each other. => [i]Paragon[/i] — Choose target creature you control and target creature you don't control. The creature you control gets +2/+2 end of turn if you control a creature with power different than each other creature's power. Then the chosen creatures fight each other.
+
+Uncaring Flame
+
+Exchange of Insight
+
+Child of the Embrace
+type: Creature — Human => Creature — Elf Druid
+
+Slay the Host
+rules_text: Exile target tapped creature. Its controller creates a 1/1 colorless Spirit creature token. => Exile target tapped creature. Its controller creates two 1/1 colorless Spirit creature tokens.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 No changes.
