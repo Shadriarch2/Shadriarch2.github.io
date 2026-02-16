@@ -1,4 +1,14 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Drowner Lord
+rules_text: Ward {1}
+Whenever token you control enters during your turn, draw a card. This ability triggers only once each turn. => Whenever token you control enters during your turn, draw a card. This ability triggers only once each turn.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Lone Spiritcaller added.
