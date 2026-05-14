@@ -1,0 +1,682 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>ABC</name>
+			<longname>Abcour</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-14</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Heaven From the Vein</name>
+			<text>(Whenever you first fulfill a tenet, mark it to give this Faith another instance of the following ability.)
+When this Faith enters, create two 1/1 colorless Cleric creature tokens.
+Creatures you control get +1/+1.
+ Tenet of Valor 
+You&apos;ve attacked with four or more creatures this turn.
+ Tenet of Congregation
+You control six or more creatures.</text>
+			<set rarity="rare" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/18_Heaven From the Vein.jpg" num="18">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Faith</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3WWW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fetterthorn Field</name>
+			<text>When this enchantment enters, exile up to one other target nonland permanent until this enchantment leaves the battlefield.
+Cycling {1}{W}</text>
+			<set rarity="common" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/13_Fetterthorn Field.jpg" num="13">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sanctifier of Mortality</name>
+			<text>Lifelink
+Elate — Whenever you cast a spell during combat, creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/35_Sanctifier of Mortality.jpg" num="35">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Joiner of Branch and Root</name>
+			<text>This creature gets +1/+1 for each enchantment you control and each enchantment card in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/23_Joiner of Branch and Root.jpg" num="23">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gnome Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Knight of Winter&apos;s Loss</name>
+			<text>Whenever an enchantment you control enters, choose one that hasn&apos;t been chosen this turn —
+• Put a +1/+1 counter on this creature.
+• Create a 1/1 blue Faerie creature token with flying.
+• You gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/24_Knight of Winter&apos;s Loss.jpg" num="24">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Angelic Messenger</name>
+			<text>Flying
+Whenever this creature becomes tapped, you gain 1 life and surveil 1.</text>
+			<set rarity="common" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/1_Angelic Messenger.jpg" num="1">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Durve, Mortality Refuted</name>
+			<text>Lifelink
+Saint (As a sorcery, tap another creature you control to swear it to this creature. It forswears other saints.)
+Creatures sworn to Durve have &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;</text>
+			<set rarity="rare" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/8_Durve, Mortality Refuted.jpg" num="8">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Budding Mirabilist</name>
+			<text>Vigilance
+Saint (As a sorcery, tap another creature you control to swear it to this creature. It forswears other saints.)
+This creature gets +1/+1 for each creature sworn to it.</text>
+			<set rarity="common" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/3_Budding Mirabilist.jpg" num="3">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Burn the False</name>
+			<text>As long as it&apos;s your turn, this spell costs {2} less to cast.
+Burn the False deals 5 damage to target tapped creature.</text>
+			<set rarity="common" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/4_Burn the False.jpg" num="4">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Charis, the Unmartyred</name>
+			<text>Whenever Charis becomes tapped, target creature you control gains indestructible until end of turn.
+{1}{W}, {T}, Discard a card: Return target non-legendary creature card with mana value 1 or less from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/5_Charis, the Unmartyred.jpg" num="5">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dream of Concord</name>
+			<text>When this enchantment enters, create a 1/1 white Human creature token.
+At the beginning of your second main phase, untap each creature you control.</text>
+			<set rarity="uncommon" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/7_Dream of Concord.jpg" num="7">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>End of a Delusion</name>
+			<text>Choose one or both —
+• You and an opponent each choose a creature. Each of those creatures gain indestructible until end of turn.
+• Destroy all creatures.</text>
+			<set rarity="rare" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/9_End of a Delusion.jpg" num="9">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WWW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Eolian</name>
+			<text>Flying
+Once each turn, when this creature enters or becomes tapped, note a number.
+Opponents can&apos;t cast spells with mana values equal to any of the numbers noted for this creature.</text>
+			<set rarity="mythic" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/10_Eolian.jpg" num="10">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>6WW</manacost>
+				<cmc>8</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Colqud Ferrier</name>
+			<text>Saint (As a sorcery, tap another creature you control to swear it to this creature. It forswears other saints.)
+This creature and creatures sworn to it have &quot;At end of combat on your turn, if this creature is tapped, put a +1/+1 counter on it.&quot;</text>
+			<set rarity="uncommon" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/6_Colqud Ferrier.jpg" num="6">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eristic Passerby</name>
+			<text>When this creature enters, surveil 1. Then if you control an enchantment, draw a card.</text>
+			<set rarity="common" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/11_Eristic Passerby.jpg" num="11">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Faidlwood Reliquarian</name>
+			<text>When this creature enters, return target artifact or enchantment card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/12_Faidlwood Reliquarian.jpg" num="12">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gyved Faithtender</name>
+			<text>Flying
+Whenever this creature deals combat damage to a player or planeswalker, return up to one target enchantment card with mana value 3 or less from your graveyard to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/17_Gyved Faithtender.jpg" num="17">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gloaming Inductee</name>
+			<text>When this creature enters, look at the top five cards of your library. You may reveal a creature card and/or an enchantment card from among them. If you revealed two cards this way, put one of them into your hand. Put any other cards revealed this way into your graveyard, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/15_Gloaming Inductee.jpg" num="15">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guide&apos;s Requite</name>
+			<text>(Whenever you first fulfill a tenet, mark it to give this Faith another instance of the following ability.)
+When this Faith enters or dies, surveil 1. You gain 2 life.
+{1}{W}: Sacrifice this enchantment.
+ Tenet of Hospitality 
+During this turn, you were dealt damage by a source an opponent controls.
+ 
+&quot;How lost you are.&quot;
+—Unnamed speaker</text>
+			<set rarity="uncommon" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/16_Guide&apos;s Requite.jpg" num="16">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Faith</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gloaming Guardian</name>
+			<text>Vigilance
+Whenever a Faith you control enters and whenever you fulfill a tenet, draw a card.</text>
+			<set rarity="uncommon" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/14_Gloaming Guardian.jpg" num="14">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hiergic Roots</name>
+			<text>When this enchantment enters, create a 0/0 colorless Angel enchantment creature token with flying and &quot;This creature gets +1/+1 for each enchantment you control.&quot;
+{2}{W}, Sacrifice this enchantment: Create a token that&apos;s a copy of up to one target token you control.</text>
+			<set rarity="mythic" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/19_Hiergic Roots.jpg" num="19">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Holy Rootseer</name>
+			<text>Affinity for enchantments (This spell costs {1} less to cast for each enchantment you control.)
+Vigilance</text>
+			<set rarity="common" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/20_Holy Rootseer.jpg" num="20">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ideistic Intercessor</name>
+			<text>Flash
+Flying
+When this creature enters, target creature you control gets +1/+1 for each enchantment you control until end of turn.</text>
+			<set rarity="common" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/21_Ideistic Intercessor.jpg" num="21">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Luroe&apos;s Presence</name>
+			<text>At the beginning of your upkeep, look at the top card of your library. If it&apos;s an enchantment card, you may exile it.
+When this enchantment leaves the battlefield, put each card exiled with it onto the battlefield under your control.
+{2}{W}, Sacrifice an enchantment: Create a 1/1 colorless Cleric creature token.</text>
+			<set rarity="rare" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/27_Luroe&apos;s Presence.jpg" num="27">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lowerer of Blades</name>
+			<text>When this creature enters, exile up to one target creature with mana value less than or equal to the number of enchantments you control. Its controller gains 3 life.</text>
+			<set rarity="rare" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/26_Lowerer of Blades.jpg" num="26">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Livening Spring</name>
+			<text>When this enchantment enters, you gain 3 life if an opponent has more life than you. Create a 1/1 blue Faerie creature token with flying if an opponent controls more creatures than you. Draw a card if an opponent has more cards in hand than you.</text>
+			<set rarity="uncommon" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/25_Livening Spring.jpg" num="25">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Into the Fading Light</name>
+			<text>Choose one —
+• Destroy target artifact or enchantment.
+• Target creature you control gets +2/+0 and gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/22_Into the Fading Light.jpg" num="22">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Maven of Blossomings</name>
+			<text>Elate — Whenever you cast a spell during combat, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/29_Maven of Blossomings.jpg" num="29">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nettlerose Skirmisher</name>
+			<text>Elate — Whenever you cast a spell during combat, this creature gets +1/+0 and gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/30_Nettlerose Skirmisher.jpg" num="30">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overawe</name>
+			<text>Tap or untap target creature.
+Trespass. (As you draw your next card, you may reveal it. If you do, it costs {W} less to cast until end of turn.)
+You may draw a card.</text>
+			<set rarity="common" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/31_Overawe.jpg" num="31">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Awaiting Crowd</name>
+			<text>When this creature enters, create a 1/1 white Human creature token and a Scripture token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Target creature gets +1/+1 until end of turn. Untap it. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/2_Awaiting Crowd.jpg" num="2">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ma Luroe, the Truth</name>
+			<text>During your turn, Luroe is a 5/5 Sphinx creature with flying, hexproof, and &quot;Whenever Luroe deals damage to a player, you may have that player draw a card. If you do, draw a card.&quot;
+[+1]: Until end of turn, your opponents can&apos;t cast spells. Surveil 1.
+[-3]: Exile target nonland permanent, then you may end the turn. Return that permanent to the battlefield under its owner&apos;s control at end of turn.</text>
+			<set rarity="mythic" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/28_Ma Luroe, the Truth.jpg" num="28">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Luroe</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pristine Reliquary</name>
+			<text>Flash
+Whenever this creature enters or attacks, target creature you control gains indestructible until end of turn. Tap it.</text>
+			<set rarity="uncommon" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/32_Pristine Reliquary.jpg" num="32">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Zombie Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Regal Hound Feeder</name>
+			<text>Elate — Once during each of your turns, whenever you cast a spell during combat, create a 3/2 red Wolf creature token that&apos;s tapped and attacking. (If each damage step has passed, it assigns and deals no damage.)</text>
+			<set rarity="uncommon" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/33_Regal Hound Feeder.jpg" num="33">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruearc&apos;s Wings</name>
+			<text>Buyback {2}{W} (You may pay an additional {2}{W} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Target creature gets +1/+1 and gains flying until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/34_Ruearc&apos;s Wings.jpg" num="34">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ubiqent, His Voice</name>
+			<text>Flash
+Flying, vigilance, lifelink
+When Ubiquent enters, if she was cast, each player sacrifices a permanent of their choice. Draw a card for each land sacrificed this way.</text>
+			<set rarity="mythic" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/37_Ubiqent, His Voice.jpg" num="37">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Triumphant Archon</name>
+			<text>Flying
+The first spell you cast during each combat may be cast without paying its mana cost.
+Cycling {1}{W}{W} ({1}{W}{W}, Discard this card: Draw a card.)
+When you cycle this card, destroy target attacking or blocking creature.</text>
+			<set rarity="rare" picurl="https://Shadriarch2.github.io/sets/ABC-files/img/36_Triumphant Archon.jpg" num="36">ABC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Archon</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
