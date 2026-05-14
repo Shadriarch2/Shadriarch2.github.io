@@ -1,9 +1,3 @@
 ﻿{
-    "sets": [
-        {
-            "set_code": "ABC",
-            "set_name": "Abcour",
-            "formats": ""
-        }
-    ]
+    "sets": []
 }
